@@ -1,0 +1,23 @@
+2025-01-31 20:30:22,301 - INFO - test info message
+2025-01-31 20:51:06,633 - INFO - test info message
+2025-01-31 20:58:08,142 - INFO - test info message
+2025-01-31 20:58:40,646 - INFO - test info message
+2025-01-31 20:59:46,180 - INFO - test info message
+2025-01-31 20:59:56,140 - INFO - test info message
+2025-01-31 21:00:33,260 - ERROR - No such comm target registered: jupyter.widget.control
+2025-01-31 21:00:33,264 - WARNING - No such comm: f92b0a34-2f76-41d1-94af-fc8e57b6ae48
+2025-01-31 21:01:25,416 - INFO - test info message
+2025-01-31 21:10:39,977 - INFO - test info message
+2025-01-31 21:11:25,079 - WARNING - test from authenticator.py
+2025-01-31 21:46:23,624 - INFO - test info message
+2025-01-31 21:55:50,591 - INFO - Refreshing Spotify access token...
+2025-01-31 22:05:40,553 - INFO - Refreshing Spotify access token...
+2025-01-31 22:05:45,835 - INFO - Refreshing Spotify access token...
+2025-01-31 22:06:25,114 - INFO - Refreshing Spotify access token...
+2025-01-31 22:06:25,213 - INFO - Access token refreshed successfully!
+2025-01-31 23:35:42,948 - INFO - Refreshing Spotify access token...
+2025-01-31 23:35:43,062 - INFO - Access token refreshed successfully!
+2025-01-31 23:40:41,665 - INFO - Note: NumExpr detected 32 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2025-01-31 23:40:41,667 - INFO - NumExpr defaulting to 8 threads.
+2025-01-31 23:43:33,049 - INFO - Refreshing Spotify access token...
+2025-01-31 23:43:33,128 - INFO - Access token refreshed successfully!
