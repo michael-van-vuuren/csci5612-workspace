@@ -21,3 +21,64 @@
 2025-01-31 23:40:41,667 - INFO - NumExpr defaulting to 8 threads.
 2025-01-31 23:43:33,049 - INFO - Refreshing Spotify access token...
 2025-01-31 23:43:33,128 - INFO - Access token refreshed successfully!
+2025-02-01 00:50:27,883 - INFO - Refreshing Spotify access token...
+2025-02-01 00:50:27,972 - INFO - Access token refreshed successfully!
+2025-02-01 01:58:15,325 - INFO - Refreshing Spotify access token...
+2025-02-01 01:58:15,417 - INFO - Access token refreshed successfully!
+2025-02-01 03:32:15,865 - INFO - Refreshing Spotify access token...
+2025-02-01 03:32:15,955 - INFO - Access token refreshed successfully!
+2025-02-01 04:22:12,962 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 04:27:00,276 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 04:32:14,509 - INFO - Refreshing Spotify access token...
+2025-02-01 04:32:14,596 - INFO - Access token refreshed successfully!
+2025-02-01 04:32:15,238 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 04:39:41,737 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 04:40:33,372 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 04:41:09,650 - WARNING - No results found for ISRC QZNJW2423715
+2025-02-01 04:41:10,695 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 04:42:56,587 - WARNING - No results found for ISRC QZNJW2423715
+2025-02-01 04:42:57,701 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 04:46:47,889 - WARNING - No results found for ISRC QZNJW2423715
+2025-02-01 04:46:48,925 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 04:49:09,295 - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-01 04:49:09,298 - WARNING - No such comm: 05a7119d-580c-4c9d-b701-0707a7ed0c06
+2025-02-01 04:49:22,657 - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-01 04:49:22,661 - WARNING - No such comm: 2af9c528-105c-4452-b2a6-1fa29a01e88d
+2025-02-01 04:49:28,351 - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-01 04:49:28,354 - WARNING - No such comm: 6ac1d8b3-c3b4-4bb3-b45d-2026b54fbb27
+2025-02-01 05:01:54,109 - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-01 05:01:54,117 - WARNING - No such comm: 81dc12c8-70e2-4498-9e01-0e1cc4ee815b
+2025-02-01 05:09:55,825 - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-01 05:09:55,828 - WARNING - No such comm: 2863545e-aafa-4b2f-9bd1-43de97c70ad7
+2025-02-01 05:19:33,210 - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-01 05:19:33,215 - WARNING - No such comm: d0f41e0e-4067-4788-8b9b-bd247552a86d
+2025-02-01 05:32:26,186 - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-01 05:32:26,189 - WARNING - No such comm: 33ba5573-f184-440d-83ce-a8c994bcd8cd
+2025-02-01 05:36:17,410 - ERROR - No such comm target registered: jupyter.widget.control
+2025-02-01 05:36:17,414 - WARNING - No such comm: 47219ff5-25d5-4e00-95c4-05c9b9388bcf
+2025-02-01 19:59:34,496 - INFO - Refreshing Spotify access token...
+2025-02-01 19:59:34,590 - INFO - Access token refreshed successfully!
+2025-02-01 19:59:37,362 - WARNING - No results found for ISRC QZNJW2423715
+2025-02-01 19:59:38,416 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 20:19:20,221 - WARNING - No results found for ISRC QZNJW2423715
+2025-02-01 20:19:21,482 - WARNING - No results found for ISRC NZAM02001128
+2025-02-01 20:19:45,943 - WARNING - No results found for ISRC QZLL92480334
+2025-02-01 20:20:04,345 - WARNING - No results found for ISRC UKXN22459926
+2025-02-01 20:20:48,070 - WARNING - No results found for ISRC FR6P11501180
+2025-02-01 20:21:21,328 - WARNING - No results found for ISRC TCJPT2289709
+2025-02-01 20:21:38,371 - WARNING - No results found for ISRC FR6F31821340
+2025-02-01 20:22:13,885 - WARNING - No results found for ISRC USDY42060410
+2025-02-01 20:22:31,166 - WARNING - No results found for ISRC QZ5AB1708080
+2025-02-01 20:22:47,547 - WARNING - No results found for ISRC TCADL1878978
+2025-02-01 20:23:02,527 - WARNING - No results found for ISRC BXIV82279381
+2025-02-01 20:23:11,560 - WARNING - No results found for ISRC QZDA42300052
+2025-02-01 20:23:17,310 - WARNING - No results found for ISRC TRBUL2300064
+2025-02-01 20:23:54,517 - WARNING - No results found for ISRC QZK6L2307991
+2025-02-01 20:24:02,733 - WARNING - No results found for ISRC MX2832415361
+2025-02-01 20:24:04,625 - WARNING - No results found for ISRC USHM21860309
+2025-02-01 20:24:05,856 - WARNING - No results found for ISRC US7VG1878876
+2025-02-01 20:24:10,303 - WARNING - No results found for ISRC FR6F32336520
+2025-02-01 20:25:03,641 - WARNING - No results found for ISRC KRE672200293
+2025-02-01 20:25:04,239 - WARNING - No results found for ISRC QZMHN2025919
+2025-02-01 20:25:43,328 - WARNING - No results found for ISRC FR0Z50062905
+2025-02-01 20:25:44,553 - WARNING - No results found for ISRC FR10S1809158

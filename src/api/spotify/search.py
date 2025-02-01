@@ -28,7 +28,8 @@ def extract_track_info(results, isrc):
         return {
             'Track': top_result['name'],
             'Album Name': top_result['album']['name'],
-            'Artist': top_result['artists'][0]['name']
+            'Artist': top_result['artists'][0]['name'],
+            'ISRC': isrc
         }
     else:
         logger.warning(f'No results found for ISRC {isrc}')
