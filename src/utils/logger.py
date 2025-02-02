@@ -2,12 +2,12 @@ import os
 import logging
 
 """
-Set up logging. Writes to logs/spotify_api.log.
+Set up logging. Writes to logs/api.log.
 Additionally outputs logs to console.
 """
 
 log_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "logs"))
-log_file = os.path.join(log_dir, 'api_spotify.log')
+log_file = os.path.join(log_dir, 'api.log')
 
 os.makedirs(log_dir, exist_ok=True)
 
@@ -20,4 +20,4 @@ logging.basicConfig(
     ]
 )
 
-logger = logging.getLogger('SpotifyAPI')
+logger = logging.getLogger('APILogger')
