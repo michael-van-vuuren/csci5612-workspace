@@ -3,3 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 spotify_token.json
 lyric-extractor.ipynb
+*.pdf
